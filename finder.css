@@ -1,0 +1,449 @@
+body {
+    background-color: #edae49;
+    margin: 0px;
+}
+.navbar-wrapper {
+    background-color: #1b9aaa;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.8rem;
+}
+.navbar-wrapper h1 {
+    color: #fdfffc;
+    font-size: 2.5em;
+    font-family: cursive;
+}
+.searchbar {
+    border-radius: 15px;
+    border: 0;
+    background-color: #91cded;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 15px 15px;
+    width: 25rem;
+}
+.card-container {
+    padding: 40px 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
+.card {
+    margin: 50px 25px;
+    position: relative;
+    padding: 10px 10px;
+    background-color: azure;
+    height: 30rem;
+    width: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.card .cardppf {
+    border-radius: 50%;
+    border: 0;
+    height: 7rem;
+    width: 7rem;
+}
+.card h2 {
+    text-align: center;
+}
+.card .social {
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+}
+.social img {
+    height: 3rem;
+    width: 3rem;
+}
+.button-group {
+    display: flex;
+    gap: 15px;
+}
+.button-group button {
+    background-color: aquamarine;
+    color: darkorchid;
+}
