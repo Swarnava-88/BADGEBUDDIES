@@ -4,4 +4,8 @@ async function logJSONData() {
     console.log(jsonData);
   }
   logJSONData();
-  
+  function htmlFun() {
+    const card = document.getElementById('card');
+    card.style.background='azure';
+  }
+  htmlFun()
