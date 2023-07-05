@@ -1,5 +1,5 @@
 body {
-    background-color: #edae49;
+    background-color: #ffd166;
     margin: 0px;
 }
 .navbar-wrapper {
@@ -9,7 +9,7 @@ body {
     padding-left: 0.8rem;
 }
 .navbar-wrapper h1 {
-    color: #04e73c;
+    color: #4f000b;
     font-size: 2.5em;
     font-family: cursive;
 }
